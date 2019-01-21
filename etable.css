@@ -1,0 +1,16 @@
+.blockTable
+{
+	border-collapse: collapse;
+}
+
+.blockTable tr td, .blockTable tr th
+{
+	border: 1px solid gainsboro;
+	padding: 8px;
+	text-align: center;
+}
+
+.blockTable tr th
+{
+	background-color: #eeeeee;
+}
